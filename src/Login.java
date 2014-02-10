@@ -125,7 +125,7 @@ public class Login {
 		String powinno_byc = w.getText();
 		Assert.assertEquals(powinno_byc,"Working");
 		
-		
+		driver.quit();
 		
 		
 
